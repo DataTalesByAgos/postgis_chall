@@ -5,10 +5,10 @@ El desafío consiste en generar un script en PostgreSQL, un archivo en formato s
 Para realizar el desafío, es necesario:
 
 Descargar el shapefile o CSV de Establecimientos Educativos desde:
-Establecimientos Educativos - Dataset
+Establecimientos Educativos - Dataset https://data.buenosaires.gob.ar/dataset/establecimientos-educativos
 
 Descargar el shapefile de Parcelas desde:
-Parcelas - Dataset
+Parcelas - Dataset https://data.buenosaires.gob.ar/dataset/parcelas
 
 Dato: Una manzana agrupa parcelas.
 
